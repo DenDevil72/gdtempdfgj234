@@ -2,8 +2,8 @@
   "name": "GDbot",
   "description": "tg gdrive bot",
   "repository": "https://github.com/DenDevil72/google-drive-telegram-bot",
-  "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
-  "keywords": ["Telegram", "Google Drive", "uploader"],
+  "logo": "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_full/77ic6i4qdj_Medium_WW226365.jpg",
+  "keywords": ["tg", "Gd", "up"],
   "env": {
     "ENV": {
       "description": "Set it to anything to enable configuration by environment variables.",
