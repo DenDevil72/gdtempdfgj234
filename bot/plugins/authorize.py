@@ -14,7 +14,7 @@ from bot.helpers.utils import CustomFilters
 
 
 OAUTH_SCOPE = "https://www.googleapis.com/auth/drive"
-REDIRECT_URI = "https://127.0.0.1"
+REDIRECT_URI = "http://loacalhost/"
 
 flow = None
 
